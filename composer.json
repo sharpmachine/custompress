@@ -1,0 +1,13 @@
+{
+    "name": "jessekade/custompress",
+    "description": "Custompress WordPress plugin for creating CPTs",
+    "homepage": "https://github.com/sharpmachine/custompress",
+    "type": "library",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Jesse Kade",
+            "homepage": "http://sharpmachinemedia.com"
+        }
+    ]
+}
