@@ -9,5 +9,8 @@
             "name": "Jesse Kade",
             "homepage": "http://sharpmachinemedia.com"
         }
-    ]
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
