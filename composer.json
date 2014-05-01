@@ -1,5 +1,5 @@
 {
-    "name": "jessekade/custompress",
+    "name": "custompress",
     "description": "Custompress WordPress plugin for creating CPTs",
     "homepage": "https://github.com/sharpmachine/custompress",
     "type": "library",
