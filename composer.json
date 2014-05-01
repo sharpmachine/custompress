@@ -1,17 +1,7 @@
 {
-    "name": "custompress",
-    "type": "wordpress-plugin",
-    "description": "Custompress WordPress plugin for creating CPTs",
-    "homepage": "https://github.com/sharpmachine/custompress",
-    "type": "library",
-    "license": "Unlicense",
-    "authors": [
-        {
-            "name": "Jesse Kade",
-            "homepage": "http://sharpmachinemedia.com"
-        }
-    ],
-    "require": {
-        "composer/installers": "~1.0"
-    }
+  "name": "custompress",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
 }
